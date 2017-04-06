@@ -1,2 +1,4 @@
 # hello-world
-Beginning program  
+ Hi Developers!
+ 
+ Javeed here! I like blossom of colors and mathematics ;)
